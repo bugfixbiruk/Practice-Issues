@@ -1,10 +1,9 @@
 import './App.css';
+import Card from "./Components/Card.tsx";
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <Card/>
   );
 }
 
